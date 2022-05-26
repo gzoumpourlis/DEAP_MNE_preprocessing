@@ -38,11 +38,11 @@ More specifically, the preprocessing script performs the following steps:
 You can see an example of a subject's ICA components here:
 
 <p>
-  <img src="https://raw.githubusercontent.com/gzoumpourlis/DEAP_MNE_preprocessing/main/figures/s01_ICA_components.png" width="800" title="ICA components of subject 01 (notice the rejected component ICA017 with grey font color)">
+  <img src="https://raw.githubusercontent.com/gzoumpourlis/DEAP_MNE_preprocessing/main/figures/s01_ICA_components.png" width="600" title="ICA components of subject 01 (notice the rejected component ICA017 with grey font color)">
 </p>
 
 You can see an example of a subject's PSD plot here:
 
 <p>
-  <img src="https://raw.githubusercontent.com/gzoumpourlis/DEAP_MNE_preprocessing/main/figures/s16_PSD_downsampled.png" width="800" title="PSD plot of subject 16">
+  <img src="https://raw.githubusercontent.com/gzoumpourlis/DEAP_MNE_preprocessing/main/figures/s16_PSD_downsampled.png" width="600" title="PSD plot of subject 16">
 </p>

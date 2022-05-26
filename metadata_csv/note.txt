@@ -1,0 +1,8 @@
+Add in this directory the following files of DEAP dataset:
+
+participant_ratings.csv
+participant_questionnaire.csv
+online_ratings.csv
+video_list.csv
+
+Note that these files are not included in this repository, as they cannot be publicly shared.
